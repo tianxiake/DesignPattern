@@ -1,5 +1,8 @@
 package com.example.yongjie.designpattern.proxy.statics;
 
+/**
+ * 代理类
+ */
 public class Proxy implements IMobileOperator{
 
     private IMobileOperator mobileOperator;

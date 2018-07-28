@@ -1,5 +1,8 @@
 package com.example.yongjie.designpattern.proxy.statics;
 
+/**
+ * 被代理类抽象接口
+ */
 public interface IMobileOperator {
 
     /**

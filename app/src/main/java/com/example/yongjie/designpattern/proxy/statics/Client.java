@@ -1,6 +1,8 @@
 package com.example.yongjie.designpattern.proxy.statics;
 
-
+/**
+ * 上层调用类
+ */
 public class Client {
 
     public static void main(String[] args) {

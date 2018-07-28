@@ -1,5 +1,8 @@
 package com.example.yongjie.designpattern.proxy.statics;
 
+/**
+ * 被代理类
+ */
 public class MobileOperator implements IMobileOperator{
 
     @Override
